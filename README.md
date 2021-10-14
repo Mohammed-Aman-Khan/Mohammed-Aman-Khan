@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://amans-cv.netlify.app](https://amans-cv.netlify.app)
 
-- ⚡ Fun fact **You are under CCTV surveillance**
+- ⚡ Fun fact **You are under surveillance. LOL!**
 
 
 <h3 align="left">Languages and Tools:</h3>
