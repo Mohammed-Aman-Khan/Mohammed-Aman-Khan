@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Mohammed Aman Khan</h1>
-<h3 align="center">A Passionate Techie from India</h3>
+<h3 align="center">Computer Scientist in making</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-aman-khan&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-aman-khan" /> </p>
 
@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **myself.**
 
-- 💬 Ask me about **JavaScript, C++, React, NodeJS, MongoDB, Python...**
+- 💬 Ask me about **Software Technologies & Programming Languages, Artificial Intelligence, Optimization Techniques, Web Development using MERN Stack...**
 
 - 📫 How to reach me **mohammedamankhan.g.a@gmail.com**
 
-- 📄 Know about my experiences [https://amans-cv.netlify.app](https://amans-cv.netlify.app)
-
-- ⚡ Fun fact **You are under surveillance. LOL!**
+- 📄 Know about my experiences on [LinkedIN](https://www.linkedin.com/in/mohammed-aman-khan-aa242b1a0/)
 
 
 <h3 align="left">Languages and Tools:</h3>
