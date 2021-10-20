@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-aman-khan" alt="mohammed-aman-khan" /></a> </p>
 
-- 🔭 I’m currently working on **myself.**
+- 🔭 I’m currently working on **Mastering Artificial Intelligence.**
 
 - 💬 Ask me about **Software Technologies & Programming Languages, Artificial Intelligence, Optimization Techniques, Web Development using MERN Stack...**
 
