@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohammedamankhan.g.a@gmail.com**
 
-- 📄 Know about my experiences on [LinkedIN](https://www.linkedin.com/in/mohammed-aman-khan-aa242b1a0/)
+- 📄 Know about my experiences on [LinkedIN](https://www.linkedin.com/in/mohammed-aman-khan/)
 
 
 <h3 align="left">Languages and Tools:</h3>
